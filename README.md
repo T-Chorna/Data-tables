@@ -59,7 +59,7 @@ The `DataTable` function accepts two parameters:
   DataTable(config1, users);
 </script>
 
-#### Result
+### Result
 After loading the page, the following table will be rendered:
 <div id="usersTable">
   <table>
