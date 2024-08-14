@@ -60,7 +60,10 @@ The `DataTable` function accepts two parameters:
 </script>
 
 ### Result
+
 After loading the page, the following table will be rendered:
+
+```html
 <div id="usersTable">
   <table>
     <thead>
@@ -89,7 +92,9 @@ After loading the page, the following table will be rendered:
 </div>
 
 
-## How to Run the Project
+
+## How to Run the Project 
+
 1. Clone the repository to your computer:
 > git clone https://github.com/T-Chorna/Data-tables
 2. Open the index.html file in your browser.
@@ -99,6 +104,7 @@ You can do this by double-clicking the file or by selecting "Open File" from you
 3. The example table will be generated based on the configuration and data provided in the script.
 
 ## Requirements
+
 To run this project, you only need a modern web browser that supports JavaScript and CSS.
 
 ## Demo
